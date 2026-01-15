@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vivek Singh
+# 👋 Hi there, I'm Rishabh Panwar
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;API+Architect+%26+System+Designer;Real-Time+App+Builder;Lifelong+Learner" alt="Typing SVG">
