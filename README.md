@@ -7,11 +7,13 @@
 ## 🚀 About Me
 
 Hey, I’m Rishabh Panwar 👋
-A backend-focused developer who loves building secure, scalable, and real-world ready applications. From REST APIs to authentication systems and third-party integrations, I focus on writing clean, maintainable, and production-grade code.
+A backend-focused developer who loves building secure, scalable, and real-world ready applications. I primarily work on the backend, but I’m also comfortable building modern frontends when needed. From REST APIs to authentication systems and third-party integrations, I focus on writing clean, maintainable, and production-grade code.
 
 What I do:
 
 ⚙️ Develop scalable backends with Node.js, Express, MongoDB, and JWT
+
+🎨 Build modern frontends using React, Redux, HTML, and CSS (backend-first, full-stack capable)
 
 🔐 Build complete auth systems (OTP verification, refresh tokens, role-based access)
 
