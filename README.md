@@ -12,7 +12,9 @@ A backend-focused developer who loves building secure, scalable, and real-world 
 What I do:
 
 ⚙️ Develop scalable backends with Node.js, Express, MongoDB, and JWT
+
 🔐 Build complete auth systems (OTP verification, refresh tokens, role-based access)
+
 📁 Strong believer in clean architecture (MVC, services, middleware) and testable code
 
 ---
@@ -66,7 +68,7 @@ Key highlights:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rishabhXpanwar&theme=tokyonight" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=rishabhXpanwar)](https://git.io/streak-stats)
 </p>
 
 ---
